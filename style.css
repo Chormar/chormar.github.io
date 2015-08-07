@@ -10,9 +10,9 @@ Entebody {
 { 
 background: url('back.jpg'); 
 background-repeat: no-repeat; 
-background-color : #FFF;
+background-color :red;
 margin-top:0.5em;
-border: 1px solid #222;
+border: 5px solid #222;
 } 
 #navcontainer { width: 100%; border-top: 1px solid #777;}
 
